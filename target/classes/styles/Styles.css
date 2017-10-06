@@ -1,0 +1,10 @@
+.button {
+    -fx-font-weight: bold;
+}
+.button {
+    -fx-border-color: darkseagreen;
+    -fx-background-color:  silver;
+}
+#tf1css {
+    -fx-background-color: skyblue;
+}
